@@ -14,5 +14,6 @@ def immigrants(x):
     return(y)
 def new_population(x):
     x = births(years) + immigrants(years) - deaths(years) + 307357870
+    x = int(x)
     return(x)
 print("The population is now approximately", new_population(years),"people.")
