@@ -1,3 +1,4 @@
+#Frank Carter, 9-16-19
 gallons = float(input("How many gallons of gasoline are there? "))
 def liters(x):
     x = gallons*3.78541

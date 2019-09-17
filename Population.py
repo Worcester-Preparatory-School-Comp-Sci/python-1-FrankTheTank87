@@ -1,3 +1,4 @@
+#Frank Carter, 9-16-19
 years = float(input("How many years has it been? "))
 def births(x):
     x = years*365*24*60*60
