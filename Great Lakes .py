@@ -5,3 +5,6 @@ def depth(x):
     x = water/usa
     return(x)
 print("If all the water in the Great Lakes covered the USA, the water would be ",depth(water)," centimeters deep.")
+
+
+#typically, you would not want your user research and put in these values which are generally constant
