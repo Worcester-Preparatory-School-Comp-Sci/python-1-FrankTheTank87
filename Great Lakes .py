@@ -8,3 +8,4 @@ print("If all the water in the Great Lakes covered the USA, the water would be "
 
 
 #typically, you would not want your user research and put in these values which are generally constant
+# good work otherwise
