@@ -5,6 +5,8 @@ if (myWord[0:1] in myList):
 else:
     print(myWord[1:] + myWord[0:1] +"ay")
 
+    //this
+
 
 
     
